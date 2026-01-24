@@ -1,0 +1,32 @@
+/* Modern Dark Theme Variables */
+$bg-color: #0a192f;
+$bg-light: #112240;
+$text-primary: #cbd5e1; // Slate 300
+$text-secondary: #8892b0; // Slate 400
+$accent-color: #64ffda; // Teal/Cyan
+$accent-hover: rgba(100, 255, 218, 0.1);
+$white: #e6f1ff;
+
+$font-primary: 'Inter', sans-serif;
+$font-mono: 'Fira Code', monospace;
+
+$spacing-xs: 0.5rem;
+$spacing-sm: 1rem;
+$spacing-md: 2rem;
+$spacing-lg: 4rem;
+$spacing-xl: 8rem;
+
+$border-radius: 4px;
+$transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin section-padding {
+    padding: $spacing-xl 0;
+    max-width: 1000px;
+    margin: 0 auto;
+}
