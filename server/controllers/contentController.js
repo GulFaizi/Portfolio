@@ -1,7 +1,6 @@
 const db = require('../utils/jsonDb');
 
-// Helper for dynamic model access
-// Returns the collection name string
+
 const getCollectionName = (modelName) => {
     const map = {
         'admin': 'admin',
