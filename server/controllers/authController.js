@@ -1,14 +1,14 @@
-const { PrismaClient } = require('@prisma/client');
+const db = require('../utils/jsonDb');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
-const prisma = new PrismaClient();
+// const prisma = new PrismaClient(); // Removed
 
 exports.login = async (req, res) => {
     const { username, password } = req.body;
 
     try {
-        const admin = await prisma.admin.findUnique({ where: { username } });
+        const admin = db.find('admin', u => u.username === username);
         if (!admin) {
             return res.status(401).json({ message: 'Invalid credentials' });
         }
