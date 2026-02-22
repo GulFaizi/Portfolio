@@ -1,0 +1,99 @@
+.
+ 
+.
+ 
+Ottawa, ON K1V 8S3    |    343-558-4733    |    gulahmadfaizi1987@gmail.com  LinkedIn 
+ 
+G U L   A H M A D  F A I Z I                     
+                  
+F U L L   S T A C K   D E V E L O P E R
+ 
+                                      
+PROFESSIONAL 
+SUMMARY 
+ 
+Full-Stack Developer with 6 years of experience building scalable web applications using 
+React.js, Node.js/Express, SQL Server, MySQL, HTML, CSS/Bootstrap. 
+Experienced in developing enterprise-grade solutions, including the Vision Rewards 
+platform and Case Management Systems, improving operational efficiency, data 
+integrity, and user engagement. Skilled in delivering client-focused solutions and 
+collaborating with cross-functional teams to drive impactful results.
+ 
+ 
+ 
+                                      
+SKILLS 
+ 
+  Frontend: React.js, HTML5, CSS3, Bootstrap, JavaScript 
+  Backend: Node.js, Express.js 
+  Databases: SQL Server, MySQL 
+  Tools & Other: Git/GitHub
+ 
+                                            
+  
+ 
+EDUCATION 
+ 
+Bachelor of Computer Science, 
+Peshawar Agriculture University, Peshawar, Pakistan 
+ 
+ 
+                                      
+WORK EXPERIENCE      Application Programmer (Full Stack Developer) Kenna Communication LP - 
+Leading IT solutions provider for communication and technology services                     
+Mississauga, ON, Canada May 2023 – September , 2025 
+ 
+Served as full-stack developer on the Vision Rewards USA project, utilizing 
+React.js, Node.js, and SQL Server to build a robust rewards management 
+platform. 
+ 
+Designed and maintained features for tracking customer rewards, payments, and 
+transactions, enabling clients to monitor activity in real-time. 
+ 
+The system improved customer engagement and streamlined rewards operations, 
+saving time and enhancing transparency for clients. 
+ 
+----------------Page (0) Break----------------
+.
+ 
+.
+ 
+Full-Stack Developer Building Toronto Caulking – Construction Company managing 
+diverse construction projects, Toronto, ON, Canada June 2022 – March 2023 
+    Developed a Business & Task Management Information System (BTMIS) to 
+manage financial, HR, and administrative operations. 
+    Built scalable, user-friendly applications using React.js, Node.js/Express, 
+MySQL, HTML5, CSS3, and Bootstrap, improving workflow speed and 
+transparency. 
+    Streamlined company processes, reducing manual tracking errors and enhancing 
+operational efficiency. 
+ 
+Full-Stack Developer  MRRD – Regional Programs Coordination Office (RPCO) 
+National rural development program delivering community-based infrastructure and 
+irrigation projects across Afghanistan 
+January 2020 – August 2021 | Afghanistan
+ 
+ 
+Developed a centralized project management and monitoring system for 
+nationwide rural infrastructure projects, saving 100+ staff hours per month. 
+ 
+Built web applications using React.js, Node.js/Express, SQL Server, HTML5, 
+CSS3, and Bootstrap, improving cross-department coordination. 
+ 
+Delivered dashboards and analytics tools that enhanced leadership decision-
+making and program efficiency. 
+Software Developer (Full Stack) CMS Justice Sector Support Program (JSSP) – U.S. 
+Department of State–funded judicial reform initiative 
+Jan 2017 – Dec 2019 | Kabul, Afghanistan  
+    Developed Case Management Systems (CMS) for criminal and civil courts, 
+supporting 1,000+ judiciary users and positively impacting thousands of case 
+participants. 
+    Built scalable applications using React.js, Node.js/Express, SQL Server, 
+HTML5, CSS3, and Bootstrap, improving case resolution efficiency and data 
+integrity. 
+ 
+Collaborated with legal professionals and international advisors to translate 
+judicial processes into user-focused solutions.
+ 
+ 
+----------------Page (1) Break----------------

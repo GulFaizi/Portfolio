@@ -33,7 +33,7 @@ const About = () => {
                         viewport={{ once: true }}
                     >
                         <p>{profile.summary}</p>
-                        <p>Hello! My name is {profile.name} and I enjoy creating things that live on the internet. My interest in web development started back in 2011.</p>
+                        <p>Hello! My name is {profile.name} and I enjoy creating things that live on the internet. My interest in web development started back in 2014.</p>
                         <p>Fast-forward to today, and I've had the privilege of working at an advertising agency, a start-up, a huge corporation, and a student-led design studio.</p>
                         <p>Here are a few technologies I've been working with recently:</p>
                         <ul className="tech-list">

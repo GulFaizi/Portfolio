@@ -1,0 +1,105 @@
+﻿Warning: Setting up fake worker.
+Warning: TT: complementing a missing function tail
+Warning: TT: complementing a missing function tail
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+.
+ 
+.
+ 
+Ottawa, ON K1V 8S3    |    343-558-4733    |    gulahmadfaizi1987@gmail.com  LinkedIn 
+ 
+G U L   A H M A D  F A I Z I                     
+                  
+F U L L   S T A C K   D E V E L O P E R
+ 
+                                      
+PROFESSIONAL 
+SUMMARY 
+ 
+Full-Stack Developer with 6 years of experience building scalable web applications using 
+React.js, Node.js/Express, SQL Server, MySQL, HTML, CSS/Bootstrap. 
+Experienced in developing enterprise-grade solutions, including the Vision Rewards 
+platform and Case Management Systems, improving operational efficiency, data 
+integrity, and user engagement. Skilled in delivering client-focused solutions and 
+collaborating with cross-functional teams to drive impactful results.
+ 
+ 
+ 
+                                      
+SKILLS 
+ 
+∩é╖  Frontend: React.js, HTML5, CSS3, Bootstrap, JavaScript 
+∩é╖  Backend: Node.js, Express.js 
+∩é╖  Databases: SQL Server, MySQL 
+∩é╖  Tools & Other: Git/GitHub
+ 
+                                            
+  
+ 
+EDUCATION 
+ 
+Bachelor of Computer Science, 
+Peshawar Agriculture University, Peshawar, Pakistan 
+ 
+ 
+                                      
+WORK EXPERIENCE      Application Programmer (Full Stack Developer) Kenna Communication LP - 
+Leading IT solutions provider for communication and technology services                     
+Mississauga, ON, Canada May 2023 ΓÇô September , 2025 
+∩é╖ 
+Served as full-stack developer on the Vision Rewards USA project, utilizing 
+React.js, Node.js, and SQL Server to build a robust rewards management 
+platform. 
+∩é╖ 
+Designed and maintained features for tracking customer rewards, payments, and 
+transactions, enabling clients to monitor activity in real-time. 
+∩é╖ 
+The system improved customer engagement and streamlined rewards operations, 
+saving time and enhancing transparency for clients. 
+ 
+----------------Page (0) Break----------------
+.
+ 
+.
+ 
+Full-Stack Developer Building Toronto Caulking ΓÇô Construction Company managing 
+diverse construction projects, Toronto, ON, Canada June 2022 ΓÇô March 2023 
+∩é╖    Developed a Business & Task Management Information System (BTMIS) to 
+manage financial, HR, and administrative operations. 
+∩é╖    Built scalable, user-friendly applications using React.js, Node.js/Express, 
+MySQL, HTML5, CSS3, and Bootstrap, improving workflow speed and 
+transparency. 
+∩é╖    Streamlined company processes, reducing manual tracking errors and enhancing 
+operational efficiency. 
+ 
+Full-Stack Developer  MRRD ΓÇô Regional Programs Coordination Office (RPCO) 
+National rural development program delivering community-based infrastructure and 
+irrigation projects across Afghanistan 
+January 2020 ΓÇô August 2021 | Afghanistan
+ 
+∩é╖ 
+Developed a centralized project management and monitoring system for 
+nationwide rural infrastructure projects, saving 100+ staff hours per month. 
+∩é╖ 
+Built web applications using React.js, Node.js/Express, SQL Server, HTML5, 
+CSS3, and Bootstrap, improving cross-department coordination. 
+∩é╖ 
+Delivered dashboards and analytics tools that enhanced leadership decision-
+making and program efficiency. 
+Software Developer (Full Stack) CMS Justice Sector Support Program (JSSP) ΓÇô U.S. 
+Department of StateΓÇôfunded judicial reform initiative 
+Jan 2017 ΓÇô Dec 2019 | Kabul, Afghanistan  
+∩é╖    Developed Case Management Systems (CMS) for criminal and civil courts, 
+supporting 1,000+ judiciary users and positively impacting thousands of case 
+participants. 
+∩é╖    Built scalable applications using React.js, Node.js/Express, SQL Server, 
+HTML5, CSS3, and Bootstrap, improving case resolution efficiency and data 
+integrity. 
+∩é╖ 
+Collaborated with legal professionals and international advisors to translate 
+judicial processes into user-focused solutions.
+ 
+ 
+----------------Page (1) Break----------------
+
